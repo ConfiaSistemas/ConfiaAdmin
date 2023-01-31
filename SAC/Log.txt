@@ -1,0 +1,86 @@
+
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   en MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   en MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.Driver.Open()
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 107
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   en MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   en MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.Driver.Open()
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 107
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   en MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   en MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.Driver.Open()
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 107
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en SAC_CONFIA.Empresas._Lambda$__24-0() en D:\Repos\SAC\SAC_CONFIA\Empresas.vb:línea 111

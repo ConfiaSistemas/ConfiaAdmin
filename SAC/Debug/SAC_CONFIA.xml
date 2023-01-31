@@ -1,0 +1,306 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SAC_CONFIA
+</name>
+</assembly>
+<members>
+<member name="T:SAC_CONFIA.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._109846">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._16606">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._16fc2b28_6980_4eaa_af5f_2105ebb20039">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._196766_200">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._23782214_1949735195350343_1299272425_n">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._357_3573518_notebook_and_pencil_vector_icono_de_libreta_png">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._75804849_ccc1_40d0_b0aa_672e22556ad5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._86114">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._87578">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._875781">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources._9261">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.background_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.commerce_loan_money_pawnshop_shop_store_icon_1320186257679862843">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.config">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.configu">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.contraseña">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.descarga">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.eliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.empresa_azul">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.grupos_agregar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.home">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.icono_cerrar_empresa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.icono_producto_hogar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.icono_reportes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.impuestos_mas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.inv">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.kisspng_cash_register_computer_icons_money_point_of_sale_p_cash_register_5acb56ea4b58f1_1050905315232754983086">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.kisspng_cash_register_computer_icons_trade_download_encaps_5af27779dcbb22_9139403915258397379041">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.lconfia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.logo_dando_vueltas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.mas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.mas1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.mas2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.menu_alt_256">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.modificar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.mostrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.mostrar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.mostrar2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.new_seo2_38_512">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.ocultar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.ocultar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.ojochico">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.open_512">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.pawn_shop_icon_15">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.png_transparent_cash_register_cash_register_payment_monochrome_black_thumbnail">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.proveedores">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.reporte_png_3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.reproductor">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.SAC">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.SATI2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.small_business_financing_marketing_computer_icons_business">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.usr">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.usuario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.usuario_agregar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.usuarionegro">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAC_CONFIA.My.Resources.Resources.usuarios">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
